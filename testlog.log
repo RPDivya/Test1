@@ -1,0 +1,4 @@
+{"message":"TESTING SUCCESS  -FILE1","level":"info"}
+{"level":"info","message":"message  -FILE1"}
+{"message":"TESTING SUCCESS  -FILE2","level":"info"}
+{"level":"info","message":"message  -FILE2"}
